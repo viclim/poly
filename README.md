@@ -11,7 +11,7 @@ $ rails db:migrate
 
 ```
 
-```
+```ruby
 
 $ rails c
 Loading development environment (Rails 7.0.6)
