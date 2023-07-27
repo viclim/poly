@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  git_repo_url: MyString
+  organization_id: 1
+  deployable: one
+  deployable_type: Deployable
+
+two:
+  name: MyString
+  git_repo_url: MyString
+  organization_id: 1
+  deployable: two
+  deployable_type: Deployable
